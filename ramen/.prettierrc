@@ -4,6 +4,6 @@
     "arrowParens": "avoid",
     "printWidth": 140,
     "trailingComma": "none",
-    "endOfLine": "auto"
-  }
-  
+    "endOfLine": "auto",
+    "useTabs": true
+}
