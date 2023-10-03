@@ -18,4 +18,4 @@ export function App() {
 }
 // 			<input type="text" onChange={event => handleChange(event)(PARAMETRAi)} />
 
-// NEPRIDET TASKUS,
+
